@@ -5,6 +5,6 @@ Welcome to my portfolio! I am continously enhancing my skills through a range of
 
 <h1>Projects</h1>
 <h3><a href=''>Prada Financial Analysis (2013-2023)</a></h3>
-This project presents a comprehensive financial analysis of Prada’s performance over a decade, focusing on revenue trends, profitability, and regional growth. By using Tableau for data visualisation and SQL/Python for data preparation, the analysis highlights key insights into brand and product performance, regional contributions, and provides strategic recommendations for future growth.
+This project dives into Prada’s financial performance over the past decade, exploring trends in revenue, profit, and regional growth. Using Tableau for visualisations and SQL/Python for data processing, it uncovers insights into how different brands, products, and regions contributed to the company’s success and provides recommendations for future growth strategies.
 
 <br>Tools: SQL, Python, Tableau, and Excel.
