@@ -1,7 +1,7 @@
 # 🚀 Rahul's Portfolio
 Welcome to my portfolio! I am continously enhancing my skills through a range of data-driven projects, focusing on the following areas:
 - SQL, Python, and R for data manipulation and analysis.
-- Power BI, Tableau, and Excel for data visualization and reporting.
+- Power BI, Tableau, and Excel for data visualisation and reporting.
 
 <h1>Projects</h1>
 <h3><a href='https://github.com/rahul-singh0/prada-financial-analysis'>Prada Financial Analysis 2013-2023</a></h3>
